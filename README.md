@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Liuberth33/Liuberth33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Liuberth Escalona 👋
 
-Here are some ideas to get you started:
+### Estudiante de Ciencia de Datos | IA Aplicada | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Liuberth_Escalona-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/liuberth-escalona-36a12a37a)
+[![GitHub](https://img.shields.io/badge/GitHub-Liuberth33-181717?style=flat-square&logo=github)](https://github.com/Liuberth33)
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy estudiante de Ciencia de Datos con enfoque en machine learning, 
+automatización y análisis de datos aplicados a problemas reales.
+
+He desarrollado **IA_V2**, un sistema de trading algorítmico automatizado 
+que opera en tiempo real integrando XGBoost, filtros de ejecución y 
+notificaciones vía Telegram — actualmente en evaluación en cuenta demo.
+
+- 🎓 Estudiante de Ciencia de Datos
+- 🤖 Apasionado por la IA aplicada
+- 📊 Trabajo con datos reales de mercados financieros
+- ☁️ Certificado en Oracle Cloud Infrastructure (OCI)
+- 📍 Chile
+
+---
+
+## Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+## Proyecto Destacado
+
+### 🤖 IA_V2 — Sistema de Trading Algorítmico
+Sistema automatizado de señales de trading sobre EURUSD en M5.
+Integra XGBoost con walk-forward validation, gestión de riesgo dinámica
+y ejecución automatizada en tiempo real.
+
+[Ver repositorio →](https://github.com/Liuberth33/IA_V2)
+
+---
+
+<div align="center">
+
+*"Los datos bien interpretados son la mejor ventaja competitiva."*
+
+</div>
