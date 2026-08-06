@@ -39,7 +39,7 @@ notificaciones vía Telegram — actualmente en evaluación en cuenta demo.
 
 ---
 
-## Proyecto Destacado
+## Proyectos Destacados
 
 ### 🤖 IA_V2 — Sistema de Trading Algorítmico
 Sistema automatizado de señales de trading sobre EURUSD en M5.
@@ -47,6 +47,15 @@ Integra XGBoost con walk-forward validation, gestión de riesgo dinámica
 y ejecución automatizada en tiempo real.
 
 [Ver repositorio →](https://github.com/Liuberth33/IA_V2)
+
+### 🧬 Synthetic Technical Content Generator
+Motor de generación de datasets sintéticos de contenido técnico (ES/EN),
+con arquitectura separada entre motor genérico de plantillas y conocimiento
+de dominio intercambiable. Construido durante un hackathon de clasificación
+de texto con Machine Learning — incluye la lección aprendida de por qué
+finalmente no se usó para entrenar el modelo.
+
+[Ver repositorio →](https://github.com/Liuberth33/synthetic-technical-content-generator)
 
 ---
 
