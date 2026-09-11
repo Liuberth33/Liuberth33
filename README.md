@@ -66,13 +66,13 @@ Construido en solitario para el hackathon DevNetwork [API + Cloud + AI] 2026.
 
 [Ver repositorio →](https://github.com/Liuberth33/fintrova)
 
-### ⚙️ minerby — Minero de CPU en C++
-Minero de CPU escrito desde cero en **C++20** para entender la minería
-Proof-of-Work de principio a fin. Dos protocolos de pool (Stratum V1 y
-Monero/xmrig) y dos motores de hashing (SHA-256d propio y RandomX) tras
-interfaces comunes; pool de hilos, telemetría Prometheus y operación 24/7
-desatendida. 27 tests, CI en Windows y Linux, verificado contra un pool
-real de Monero.
+### ⚙️ minerby — Minero de CPU en C++ *(proyecto de aprendizaje)*
+Proyecto exploratorio construido **con asistencia de IA** para entender la
+minería Proof-of-Work de principio a fin: dos protocolos de pool (Stratum V1
+y Monero/xmrig), dos motores de hashing (SHA-256d y RandomX), concurrencia y
+telemetría. Funcional y con tests (27, CI en Windows y Linux); **no** es un
+minero de producción. El README documenta qué aprendí — incluida la
+conclusión de que minar por CPU no es rentable en hardware doméstico.
 
 [Ver repositorio →](https://github.com/Liuberth33/minerby)
 
